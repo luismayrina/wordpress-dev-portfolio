@@ -5,8 +5,8 @@ export const DEVELOPER_INFO = {
   role: "WordPress Developer",
   about: "I specialize in custom WordPress builds, plugin optimization, and full-stack development. I have a proven track record of delivering high-performance web solutions and mobile applications.",
   email: "luismayrinaa@gmail.com",
-  resumeUrl: "/src/documents/Resume WP ElijahLuisMayrina.pdf",
-  profileImage: "/src/image000012.jpg",
+  resumeUrl: "/Resume WP ElijahLuisMayrina.pdf",
+  profileImage: "/image000012.jpg",
   phone: "0961-779-4522",
   education: "B.S. in Computer Science, Lyceum of the Philippines University - Cavite"
 };
@@ -46,7 +46,7 @@ export const PROJECTS: Project[] = [
     title: "Coffee Tonya PH",
     category: "E-Commerce",
     description: "A premium e-commerce platform for a specialty coffee roastery, featuring a seamless shopping experience and custom product filtering.",
-    image: "/src/images/portfolio/coffeetonyaph.com.png",
+    image: "/coffeetonyaph.com.png",
     tags: ["Wix", "Payment", "PHP"],
     link: "https://coffeetonyaph.com"
   },
@@ -55,7 +55,7 @@ export const PROJECTS: Project[] = [
     title: "Duck Donuts",
     category: "Brand Marketing",
     description: "A vibrant brand marketing website for a popular donut franchise, focusing on visual storytelling and customer engagement.",
-    image: "/src/images/portfolio/www.duckdonutsph.com.png",
+    image: "/www.duckdonutsph.com.png",
     tags: ["WordPress", "Elementor", "Design"],
     link: "https://www.duckdonutsph.com"
   },
@@ -64,7 +64,7 @@ export const PROJECTS: Project[] = [
     title: "Al Nakheel",
     category: "Corporate",
     description: "A professional corporate website for Al Nakheel, showcasing their services and portfolio with a modern, high-performance interface.",
-    image: "/src/images/portfolio/al-nakheel.vercel.app.png",
+    image: "/al-nakheel.vercel.app.png",
     tags: ["WordPress", "Elementor", "Corporate"],
     link: "https://al-nakheel.vercel.app"
   },
@@ -73,7 +73,7 @@ export const PROJECTS: Project[] = [
     title: "U-BIX Colleges",
     category: "Educational Institution",
     description: "A comprehensive educational portal for U-BIX Colleges, providing students and faculty with easy access to information and resources.",
-    image: "/src/images/portfolio/ubixcollegesinc.edu.ph.png",
+    image: "/ubixcollegesinc.edu.ph.png",
     tags: ["WordPress", "Elementor", "Contact Form 7"],
     link: "https://ubixcollegesinc.edu.ph"
   },
@@ -82,7 +82,7 @@ export const PROJECTS: Project[] = [
     title: "Bravo Hotel",
     category: "Booking",
     description: "An integrated booking and management system for Bravo Hotel, streamlining the reservation process for guests.",
-    image: "/src/images/portfolio/bravohotelsph.com.png",
+    image: "/bravohotelsph.com.png",
     tags: ["WordPress", "Booking System", "UI/UX"],
     link: "https://bravohotelsph.com"
   },
@@ -91,7 +91,7 @@ export const PROJECTS: Project[] = [
     title: "Pocket Friendly Shop",
     category: "E-Commerce",
     description: "A user-friendly e-commerce store focused on affordability and accessibility, built for high conversion and performance.",
-    image: "/src/images/portfolio/pocketfriendlyshop.com.png",
+    image: "/pocketfriendlyshop.com.png",
     tags: ["WordPress", "WooCommerce", "Marketing"],
     link: "https://pocketfriendlyshop.com"
   }
@@ -134,5 +134,5 @@ export const EXPERIENCES: Experience[] = [
 export const SOCIAL_LINKS: SocialLink[] = [
   { platform: "LinkedIn", url: "https://linkedin.com/in/luismayrina", icon: "linkedin" },
   { platform: "GitHub", url: "https://github.com/luismayrina", icon: "github" },
-  { platform: "Email", url: "/src/documents/Resume WP ElijahLuisMayrina.pdf", icon: "mail" },
+  { platform: "Email", url: "/Resume WP ElijahLuisMayrina.pdf", icon: "mail" },
 ];
